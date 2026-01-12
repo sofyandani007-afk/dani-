@@ -1,0 +1,7 @@
+{
+  "name": "SundaScape AI - Sundanese Rural Image Generator",
+  "description": "A hyper-realistic image generator and editor specialized in Sundanese rural landscapes, powered by Gemini 2.5 Flash Image. Generate tea gardens, rice fields with Mt. Salak, waterfalls, and more.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
